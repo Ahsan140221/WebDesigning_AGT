@@ -1,0 +1,357 @@
+body {
+	margin: 0px;
+	height: 3000px;
+	width: 1300px;
+}
+.main {
+	background-color: #F63;
+	height: 3000px;
+	width: 1170px;
+	margin-right: 65px;
+	margin-left: 65px;
+}
+.header {
+	background-color: Sandybrown;
+	height: 80px;
+	width: 1170px;
+}
+.hero {
+	height: 650px;
+	width: 1170px;
+	text-align: center;
+	background-color: #F63;
+}
+.about {
+	background-color: blanchedalmond;
+	height: 250px;
+	width: 1170px;
+	text-align: center;
+}
+.services {
+	background-color: #F63;
+	height: 600px;
+	width: 1170px;
+}
+.fact {
+	background-color: blanchedalmond;
+	height: 250px;
+	width: 1170px;
+	text-align: center;
+}
+.portfolio {
+	background-color: #F63;
+	height: 600px;
+	width: 1170px;
+}
+.contact {
+	height: 500px;
+	width: 1170px;
+	background-color: blanchedalmond;
+}
+.footer {
+	background-color: #f63;
+	height: 70px;
+	width: 1170px;
+	text-align: center;
+}
+.menuitem {
+	height: 80px;
+	width: 1170px;
+}
+.main .header .menuitem ul {
+	margin: 0px;
+	padding-left: 585px;
+}
+.main .header .menuitem ul li {
+	line-height: 75px;
+	color: darkred;
+	float: left;
+
+
+
+
+
+	width: 14
+$;
+	padding-left: 10px;
+	list-style-type: none;
+	width: 14%;
+	font-weight: bold;
+}
+
+.linkstyle {
+	text-decoration:none;
+	color:#003;
+}
+.linkstyle:hover {
+	text-decoration:none;
+	color:white;}
+.linkstyle:visited {
+	text-decoration:none;
+	}
+.linkstyle:active {
+	text-decoration:none;}		
+.main .header .menuitem ul li:hover {
+	color: white;
+}
+.main .header .menuitem h3 {
+	color: darkred;
+	line-height: 75px;
+	margin: 0px;
+	float: left;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 30px;
+	font-size: 30px;
+}
+.main .hero h1 {
+	font-weight: bolder;
+	color: darkred;
+	margin: 0px;
+	padding-top: 200px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.main .hero p {
+	color: #003;
+	padding-top: 15px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	line-height: 30px;
+}
+.hiremebutton {
+	font-size: 22px;
+	color: darkred;
+	background-color: blanchedalmond;
+	text-align: center;
+	width: 10%;
+	margin-top: 20px;
+}
+.main .about h1 {
+	font-weight: bolder;
+	color: darkred;
+	margin: 0px;
+	padding-top: 30px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+
+}
+.main .about p {
+	line-height: 30px;
+	color: #003;
+}
+.servicesheading {
+	text-align: center;
+	height: 100px;
+	width: 1170px;
+}
+.main .services .servicesheading h1 {
+	font-weight: bolder;
+	color: darkred;
+	margin: 0px;
+	padding-top: 30px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+
+}
+.service1 {
+	height: 500px;
+	width: 390px;
+	float: left;
+	text-align: center;
+}
+.service2 {
+	float: left;
+	height: 500px;
+	width: 390px;
+	text-align: center;
+}
+.service3 {
+	float: left;
+	height: 500px;
+	width: 390px;
+	text-align: center;
+}
+.circle1 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-top:25px;
+  background:url('../images/aq.png') no-repeat center;
+  background-size:cover;
+}
+.circle2 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-top:25px;
+  background:url('../images/webdesign.jpg') no-repeat center;
+  background-size:cover;
+}
+
+
+.circle3 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-top:25px;
+  background:url('../images/graphic1.jpg') no-repeat center;
+  background-size:cover;
+}
+.headingservices {
+	color: blanchedalmond;
+	padding-top: 15px;
+}
+.factheading {
+	text-align: center;
+	height: 50px;
+	width: 1170px;
+}
+.main .fact .factheading h1 {
+	color: darkred;
+	margin: 0px;
+	padding-top: 15px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.fact1 {
+	float: left;
+	height: 200px;
+	width: 390px;
+}
+.fact2 {
+	float: left;
+	height: 200px;
+	width: 390px;
+}
+.fact3 {
+	height: 200px;
+	width: 390px;
+	float: left;
+}
+.factspan {
+	
+	height: 75px;
+  width: 75px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-top:30px;
+  border:1px solid #F63;  
+	}
+.main .fact .fact1 h4 {
+	color: #003;
+	padding-top: 8px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 8px;
+}
+.main .fact .fact2 h4 {
+		color: #003;
+	padding-top: 8px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 8px;
+}
+.main .fact .fact3 h4 {
+		color: #003;
+	padding-top: 8px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 8px;
+}
+.factheading3 {
+	color:#003;
+	margin-top: 20px;
+	margin-left: 5px;
+}
+.portfolioheading {
+	text-align: center;
+	height: 100px;
+	width: 1170px;
+}
+.main .portfolio .portfolioheading h1 {
+	color: darkred;
+	padding-top: 30px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin: 0px;
+}
+.portfolioslider {
+	margin: auto;
+	height: 400px;
+	width: 975px;
+	background-color: #903;
+}
+.contactheading {
+	background-color: blanchedalmond;
+	text-align: center;
+	height: 100px;
+	width: 1170px;
+}
+.main .contact .contactheading h1 {
+	color: darkred;
+	margin: 0px;
+	padding-top: 30px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.contactform {
+	height: 400px;
+	width: 585px;
+	text-align: center;
+	float: left;
+
+}
+
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 10px; /* Some padding */  
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 5px; /* Add a top margin */
+  margin-bottom: 7px; /* Bottom margin */
+  resize: vertical
+   /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #F63;
+  color: #003;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top:3px;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+.address {
+	height: 400px;
+	width: 292.5px;
+	float: left;
+	
+}
+.footerheading {
+	height: 35px;
+	width: 1170px;
+	margin-top:35px;
+	}
+#nav {
+	position: fixed;
+}

@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Creative Studio</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" type="text/css" href="../css/styles.css"/>
+<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="../engine1/style.css" />
+	<script type="text/javascript" src="../engine1/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section -->
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<!-- TemplateBeginEditable name="main" -->
+<div class="main">
+  <div class="header" id="nav">
+    <div class="menuitem">
+      <h3>CREATIVE</h3>
+      <ul>
+        <li><a class="linkstyle" href="#inde.html">Home</a></li>
+        <li><a class="linkstyle" href="#aboutid">About</a></li>
+        <li><a class="linkstyle" href="#serviceid">Services</a></li>
+        <li><a class="linkstyle" href="#factid">Facts</a></li>
+        <li><a class="linkstyle" href="#portfolioid">Portfolio</a></li>
+        <li><a class="linkstyle" href="#contactid">Contact Us</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="hero" id="homeid">
+    <h1>WELCOME TO CREATIVE STUDIO</h1>
+    <p>Creative Studio offers web design, web development and graphics design services.<br />
+      It also provides SEO services for your websites, so your websites are ranked top in Google rankings.</p>
+    <button class="hiremebutton" type="submit">HIRE US</button>
+  </div>
+  <div class="about" id="aboutid">
+    <h1>ABOUT US</h1>
+    <p>We are a leading web design and web development company.<br />
+      We have our clients locally in different cities of Pakistan.<br />
+      We also deal with clients outside of Pakistan, majorly in USA, UK and Australia.</p>
+  </div>
+  <div class="services" id="serviceid">
+    <div class="servicesheading">
+      <h1>SERVICES</h1>
+    </div>
+    <div class="service1"><span class="circle1"></span>
+      <h2 class="headingservices">WEB DEVELOPMENT</h2>
+    </div>
+    <div class="service2"><span class="circle2"></span>
+      <h2 class="headingservices">WEB DESIGN</h2>
+    </div>
+    <div class="service3"><<span class="circle3"></span>
+      <h2 class="headingservices">GRAPHIC DESIGN</h2>
+    </div>
+  </div>
+  <div class="fact" id="factid">
+    <div class="factheading">
+      <h1>FACTS</h1>
+    </div>
+    <div class="fact1"><span class="factspan">
+      <h4>100%</h4>
+      </span>
+      <h3 class="factheading3">RESPONSIVE DESIGN</h3>
+    </div>
+    <div class="fact2"><span class="factspan">
+      <h4>100%</h4>
+      </span>
+      <h3 class="factheading3">CROSS BROWSER COMPATIBILITY</h3>
+    </div>
+    <div class="fact3"><span class="factspan">
+      <h4>100%</h4>
+      </span>
+      <h3 class="factheading3">ERROR FREE CODE</h3>
+    </div>
+  </div>
+  <div class="portfolio" id="portfolioid">
+    <div class="portfolioheading">
+      <h1>PORTFOLIO</h1>
+    </div>
+    <div class="portfolioslider">
+      <!-- Start WOWSlider.com BODY section -->
+      <!-- add to the <body> of your page -->
+      <div id="wowslider-container1">
+        <div class="ws_images">
+          <ul>
+            <li><img src="../data1/images/affordable.jpg" alt="affordable" title="affordable" id="wows1_0"/></li>
+            <li><a href="http://wowslider.net"><img src="../data1/images/digitalportfoliotcg072017.jpg" alt="wow slider" title="digital-portfolio-tcg-07-2017" id="wows1_1"/></a></li>
+            <li><img src="../data1/images/productimage174578857.jpg" alt="product-image-174578857" title="product-image-174578857" id="wows1_2"/></li>
+          </ul>
+        </div>
+        <div class="ws_bullets">
+          <div> <a href="#" title="affordable"><span><img src="../data1/tooltips/affordable.jpg" alt="affordable"/>1</span></a> <a href="#" title="digital-portfolio-tcg-07-2017"><span><img src="../data1/tooltips/digitalportfoliotcg072017.jpg" alt="digital-portfolio-tcg-07-2017"/>2</span></a> <a href="#" title="product-image-174578857"><span><img src="../data1/tooltips/productimage174578857.jpg" alt="product-image-174578857"/>3</span></a> </div>
+        </div>
+        <div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">slider html</a> by WOWSlider.com v8.8</div>
+        <div class="ws_shadow"></div>
+      </div>
+      <script type="text/javascript" src="../engine1/wowslider.js"></script>
+      <script type="text/javascript" src="../engine1/script.js"></script>
+      <!-- End WOWSlider.com BODY section -->
+    </div>
+  </div>
+  <div class="contact" id="contactid">
+    <div class="contactheading">
+      <h1>CONTACT US</h1>
+    </div>
+    <div class="address"></div>
+    <div class="contactform">
+      <label for="name">Name : </label>
+      <input type="text" id="name" name="name" placeholder="Your name" />
+      <label for="email">Email : </label>
+      <input type="text" id="email" name="email" placeholder="Your email" />
+      <label for="message">Message : </label>
+      <textarea id="message" name="message" placeholder="Your message" style="height:150px"></textarea>
+      <input type="submit" value="Submit" />
+    </div>
+    <div class="address"></div>
+  </div>
+  <div class="footer">
+    <div class="footerheading">
+      <h1>&copy; 2019 - CREATIVE STUDIO</h1>
+    </div>
+  </div>
+</div>
+<!-- TemplateEndEditable -->
+</body>
+</html>
